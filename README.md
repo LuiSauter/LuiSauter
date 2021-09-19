@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Luis Gabriel
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css and JavaScript
-- 💞️ I’m looking to collaborate on web responsive
+- 🌱 I’m currently learning react and node
 - 📫 How to reach me, janco7249@gmail.com
 
 <!---
