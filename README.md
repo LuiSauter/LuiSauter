@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Gabriel
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react and node
+- 🌱 I’m currently learning express and nodejs
 - 📫 janco7249@gmail.com
 
 <!---
