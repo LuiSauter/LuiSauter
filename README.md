@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Luis Gabriel
-- 👀 I’m interested in web development
+- 👀 Frontend developer React js
 - 🌱 I’m currently learning express and nodejs
+### `Mail`
 - 📫 janco7249@gmail.com
 
 <!---
