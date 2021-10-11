@@ -1,4 +1,4 @@
-### `Sauterdev's repository`
+### `SAUTERDEV REPOSITORY`
 - 👋 Hi, I’m Luis Gabriel
 
 ### `Development skills`
