@@ -3,14 +3,9 @@
 # `SAUTERDEV REPOSITORY`
 - 👋 Hi, I’m Luis Gabriel
 
-## `Development skills`
 - 🧑🏻‍💻 Frontend developer React, js, Sass, styled-components, CSS3, HTML5
 - 📡 nodejs, express, mongodb, mongoose,
-
-## `Learning`
 - 🌱 I’m currently learning GraphQL, webpack, ...
-
-## `Mail`
 - 📫 janco7249@gmail.com
 
 ## Last projects
