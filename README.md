@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning GraphQL, webpack, ...
 - 📫 janco7249@gmail.com
 
-## Last projects
+## Last projects with Reactjs
 - ### `Notes app`
   Application with reactjs, nodejs, express, mongodb, mongoose and styles with styled-components 💅🏻
     - repository: https://github.com/LuiSauter/spa-notes-app
