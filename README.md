@@ -3,7 +3,7 @@
 # `SAUTERDEV REPOSITORY`
 - 👋 Hi, I’m Luis Gabriel
 
-- 🧑🏻‍💻 Frontend developer React, js, Sass, styled-components, CSS3, HTML5
+- 🧑🏻‍💻 Frontend developer React, Nextjs, js, Sass, styled-components, CSS3, HTML5
 - 📡 nodejs, express, mongodb, mongoose,
 - 🌱 I’m currently learning GraphQL, webpack, ...
 - 📫 janco7249@gmail.com
