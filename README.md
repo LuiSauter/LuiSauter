@@ -7,18 +7,6 @@
 - 📡 nodejs, express, mongodb, mongoose,
 - 🌱 I’m currently learning GraphQL, webpack, ...
 - 📫 janco7249@gmail.com
-
-## Last projects with Reactjs
-- ### `Notes app`
-  Application with reactjs, nodejs, express, mongodb, mongoose and styles with styled-components 💅🏻
-    - repository: https://github.com/LuiSauter/spa-notes-app
-    - repo-backend: https://github.com/LuiSauter/notes-backend
-    - 🌐 deployment: https://luisauter.github.io/spa-notes-app/
-    - CODESANDBOX: https://46cbv.csb.app/spa-notes-app/
-- ### `Search Gifs`
-  Application web with reactjs
-    - repository: https://github.com/LuiSauter/search-gifs
-    - 🌐 deployment: https://my-gifs.vercel.app/
 <!---
 LuiSauter/LuiSauter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
