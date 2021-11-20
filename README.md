@@ -4,8 +4,8 @@
 - 👋 Hi, I’m Luis Gabriel
 
 - 🧑🏻‍💻 Frontend developer React.
-- Nextjs, js, typescrypt, Sass, styled-components, CSS3, HTML5
-- 📡 nodejs, express, mongodb, mongoose,
+- Nextjs, js, typescrypt, Sass, styled-components, CSS3, HTML5, Jest
+- 📡 nodejs, express, mongodb, mongoose, supertest
 - 🌱 I’m currently learning GraphQL, webpack, ...
 - 📫 janco7249@gmail.com
 <!---
