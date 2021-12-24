@@ -2,12 +2,26 @@
 
 # `SAUTERDEV REPOSITORY`
 - 👋 Hi, I’m Luis Gabriel
-
 - 🧑🏻‍💻 Frontend developer React.
+
+### Frontend Development
 - Nextjs, js, typescrypt, Sass, styled-components, CSS3, HTML5, Jest
-- 📡 nodejs, express, mongodb, mongoose, supertest
-- 🌱 I’m currently learning GraphQL, webpack, ...
-- 📫 janco7249@gmail.com
+
+### Backend Development
+- 📡 nodejs, express, mongodb, mongoose, GraphQ, supertest
+
+### 🌱 I’m currently learning
+- nestjs, Docker...
+
+### Github Stats
+
+<table>
+  <tr>
+    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiSauter&theme=radical&card_width=450em)](https://github.com/LuiSauter/LuiSauter"/></td>
+    <td valign="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuiSauter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+  </tr>
+</table>
+
 <!---
 LuiSauter/LuiSauter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
