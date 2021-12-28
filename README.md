@@ -8,7 +8,7 @@
 - Nextjs, js, typescrypt, Sass, styled-components, CSS3, HTML5, Jest
 
 ### Backend Development
-- 📡 nodejs, express, mongodb, mongoose, GraphQ, supertest
+- 📡 nodejs, express, mongodb, mongoose, GraphQL, supertest
 
 ### 🌱 I’m currently learning
 - nestjs, Docker...
