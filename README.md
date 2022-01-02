@@ -13,7 +13,7 @@
 ### 🌱 I’m currently learning
 - nestjs, Docker...
 
-### Github Stats
+### Github Stats:
 
 <table>
   <tr>
