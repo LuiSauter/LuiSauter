@@ -5,7 +5,7 @@
 - 🧑🏻‍💻 Frontend developer React.
 
 ### Frontend Development
-- Raectjs, Nextjs, javascript, typescrypt, Sass, styled-components, CSS3, HTML5, Jest, Cypress
+- Reactjs, Nextjs, javascript, typescrypt, Sass, styled-components, CSS3, HTML5, Jest, Cypress
 
 ### Backend Development
 - 📡 nodejs, express, mongodb, mongoose, GraphQL, supertest
