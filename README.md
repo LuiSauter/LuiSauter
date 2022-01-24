@@ -2,7 +2,7 @@
 
 # `SAUTERDEV REPOSITORY`
 - 👋 Hi, I’m Luis Gabriel
-- 🧑🏻‍💻 Frontend developer React.
+- 🧑🏻‍💻 Frontend developer Reactjs - Nextjs.
 
 ### Frontend Development
 - Reactjs, Nextjs, javascript, typescrypt, Sass, styled-components, CSS3, HTML5, Jest, Cypress
@@ -11,7 +11,7 @@
 - 📡 nodejs, express, mongodb, mongoose, GraphQL, supertest
 
 ### 🌱 I’m currently learning
-- nestjs, Docker...
+- Nestjs, React Native...
 
 ### Github Stats:
 
