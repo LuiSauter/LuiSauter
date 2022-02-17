@@ -30,7 +30,7 @@
 
 ### 🌱 I’m currently learning
   <p>
-    <img src="https://img.shields.io/badge/native-20232a?style=for-the-badge&logo=react&logoColor=5bc8e7">
+    <img src="https://img.shields.io/badge/ReactNative-20232a?style=for-the-badge&logo=react&logoColor=5bc8e7">
   </p>
 
 ### Github Stats:
