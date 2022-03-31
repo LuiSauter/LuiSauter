@@ -36,10 +36,6 @@
 ### Github Stats:
 
 <table>
-  <tr>
-    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiSauter&theme=radical&card_width=450em)](https://github.com/LuiSauter/LuiSauter"/></td>
-    <td valign="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuiSauter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
-  </tr>
  <tr>
   <td valign="center">
    <div style='max-height: 220px;outline: 1px solid #3f464f;border-radius: 0.5rem;overflow: hidden;position: relative;'>
