@@ -11,11 +11,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Cypress-white?style=for-the-badge&logo=Cypress&logoColor=black">
+  <img src="https://img.shields.io/badge/jest-393536?style=for-the-badge&logo=jest&logoColor=c03b13">
  </p>
  <p>
   <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwindcss&logoColor=cyan" >
  </P>
 
 ### Backend Development 📡
@@ -25,7 +27,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/mongoose-white?style=for-the-badge&logo=mongoose&logoColor=red">
   <img src="https://img.shields.io/badge/GraphQL-da0093?style=for-the-badge&logo=GraphQL&logoColor=white">
-  <img src="https://img.shields.io/badge/jest-393536?style=for-the-badge&logo=jest&logoColor=c03b13">
  </p>
 
 ### 🌱 I’m currently learning
