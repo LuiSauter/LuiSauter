@@ -35,19 +35,19 @@
   </p>
 
 ### Github Stats:
-  <div style='max-height: 220px;outline: 1px solid #3f464f;border-radius: 0.5rem;overflow: hidden;position: relative;'>
-    <img style='object-fit: cover;height: 100%;width: 100%;transform: scale(1.02)' src='https://github-readme-stats.vercel.app/api?username=LuiSauter&theme=react'/>
+<!--   <div align="center" style='max-height: 220px;outline: 1px solid #3f464f;border-radius: 0.5rem;overflow: hidden;position: relative;'>
+    <img align="center" style='object-fit: cover;height: 100%;width: 70%;transform: scale(1.02)' src='https://github-readme-stats.vercel.app/api?username=LuiSauter&theme=react'/>
   </div>
-  <div style='max-height: 220px;outline: 1px solid #3f464f;border-radius: 0.5rem;overflow: hidden;position: relative;'>
-    <img style='object-fit: cover;height: 100%;width: 100%;transform: scale(1.02)' src='https://github-readme-streak-stats.herokuapp.com/?user=LuiSauter&theme=react'/>
+  <div align="center" style='max-height: 220px;outline: 1px solid #3f464f;border-radius: 0.5rem;overflow: hidden;position: relative;'>
+    <img style='object-fit: cover;height: 100%;width: 70%;transform: scale(1.02)' src='https://github-readme-streak-stats.herokuapp.com/?user=LuiSauter&theme=react'/>
   </div>
-  <div style='max-height: 220px;outline: 1px solid #3f464f;border-radius: 0.5rem;overflow: hidden;position: relative;'>
-    <img width='350px' style='object-fit: cover;height: 100%;width: 100%;transform: scale(1.02)' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LuiSauter&layout=compact&theme=react'/>
+  <div align="center" style='max-height: 220px;outline: 1px solid #3f464f;border-radius: 0.5rem;overflow: hidden;position: relative;'>
+    <img width='350px' style='object-fit: cover;height: 100%;width: 70%;transform: scale(1.02)' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LuiSauter&layout=compact&theme=react'/>
   </div>
-  <div style='max-height: 220px;outline: 1px solid #3f464f;border-radius: 0.5rem;overflow: hidden;position: relative;'>
-    <img width='350px' style='object-fit: cover;height: 100%;width: 100%;transform: scale(1.02)' src='https://user-images.githubusercontent.com/88288135/136866329-82598cff-01e3-4371-acbb-d5adc33865a2.jpg'/>
-  </div>
-<!-- <table>
+  <div align="center" style='max-height: 220px;outline: 1px solid #3f464f;border-radius: 0.5rem;overflow: hidden;position: relative;'>
+    <img width='350px' style='object-fit: cover;height: 100%;width: 70%;transform: scale(1.02)' src='https://user-images.githubusercontent.com/88288135/136866329-82598cff-01e3-4371-acbb-d5adc33865a2.jpg'/>
+  </div> -->
+<table>
  <tr>
   <td valign="center">
    <div style='max-height: 220px;outline: 1px solid #3f464f;border-radius: 0.5rem;overflow: hidden;position: relative;'>
@@ -71,7 +71,7 @@
     <img width='350px' style='object-fit: cover;height: 100%;width: 100%;transform: scale(1.02)' src='https://user-images.githubusercontent.com/88288135/136866329-82598cff-01e3-4371-acbb-d5adc33865a2.jpg'/>
    </div>
   </td>
-</table> -->
+</table>
 
 
 <!---
