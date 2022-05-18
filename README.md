@@ -39,9 +39,9 @@
    <img src='https://github-readme-streak-stats.herokuapp.com/?user=LuiSauter&theme=react'/>
   </div>
   <br />
-  <div align="center">
+<!--   <div align="center">
     <img width='500px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LuiSauter&layout=compact&theme=react'/>
-  </div>
+  </div> -->
   <br />
   <div align="center">
     <img width='500px' src='https://user-images.githubusercontent.com/88288135/136866329-82598cff-01e3-4371-acbb-d5adc33865a2.jpg' />
