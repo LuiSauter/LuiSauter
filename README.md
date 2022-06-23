@@ -1,5 +1,3 @@
-<!-- ![163146163_122356169899544_6003355897426048525_n](https://user-images.githubusercontent.com/88288135/136866228-c80889e6-8f13-45e1-9f59-b0e36df07883.jpg) -->
-
 # `SAUTERDEV REPOSITORY`
 - 👋 Hi, I’m Luis Gabriel
 - 🧑🏻‍💻 Frontend developer Reactjs - Nextjs.
