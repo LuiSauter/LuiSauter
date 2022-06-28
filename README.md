@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Cypress-white?style=for-the-badge&logo=Cypress&logoColor=black">
   <img src="https://img.shields.io/badge/jest-393536?style=for-the-badge&logo=jest&logoColor=c03b13">
+  <img src="https://img.shields.io/badge/ReactNative-20232a?style=for-the-badge&logo=react&logoColor=5bc8e7">
  </p>
  <p>
   <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -29,7 +30,7 @@
 
 ### 🌱 I’m currently learning
   <p>
-    <img src="https://img.shields.io/badge/ReactNative-20232a?style=for-the-badge&logo=react&logoColor=5bc8e7">
+    <img src="https://img.shields.io/badge/electron-2b2e3b?style=for-the-badge&logo=electron&logoColor=9ee9f8">
   </p>
 
 ### Github Stats:
