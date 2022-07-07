@@ -39,7 +39,7 @@
   </div>
   <br />
   <div align="center">
-    <img width='500px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LuiSauter&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117'/>
+    <img width='400px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LuiSauter&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117'/>
   </div>
   <br />
   <div align="center">
