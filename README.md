@@ -33,17 +33,17 @@
     <img src="https://img.shields.io/badge/electron-2b2e3b?style=for-the-badge&logo=electron&logoColor=9ee9f8">
   </p>
 
-### Github Stats:
+### My Github Stats:
   <div align="center" >
-   <img src='https://github-readme-streak-stats.herokuapp.com/?user=LuiSauter&theme=react'/>
+   <img src='https://github-readme-streak-stats.herokuapp.com/?user=LuiSauter&theme=black-ice&hide_border=true&stroke=0000&background=0d1117'/>
   </div>
   <br />
   <div align="center">
-    <img width='500px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LuiSauter&layout=compact&theme=react'/>
+    <img width='500px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LuiSauter&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117'/>
   </div>
   <br />
   <div align="center">
-    <img width='500px' src='https://user-images.githubusercontent.com/88288135/136866329-82598cff-01e3-4371-acbb-d5adc33865a2.jpg' />
+    <img src='https://activity-graph.herokuapp.com/graph?username=LuiSauter&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true' />
   </div>
   
 <!---
