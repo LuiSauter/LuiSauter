@@ -4,10 +4,12 @@
   <a align="right" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLuiSauter"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLuiSauter&label=Visitors&labelColor=%236e7681&countColor=%2300e6fe" /></a>
 </h1>
 
-- 👋 Hi, I’m Luis Gabriel Janco
-- 🧑🏻‍💻 FullStack Developer.
+- 👋 Hi, welcome to my repository.
+- 🧑🏻‍💻 Software Engineer
+- 🚀 FullStack Developer.
+- 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/luis-gabriel-janco) or [Instagram](https://www.instagram.com/sauterdev/)
 
-### Frontend Development
+### Frontend Stack
  <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -24,7 +26,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwindcss&logoColor=cyan" >
  </P>
 
-### Backend Development 📡
+### Backend Stack 📡
  <p>
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
