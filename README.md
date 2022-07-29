@@ -49,10 +49,13 @@
     <img width='400px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LuiSauter&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117'/>
   </div>
   <br />
+    <div align="center">
+    <img width='400px' src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=luisauter&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:8px" alt="Luis Gabriel Janco">
+  </div>
   <div align="center">
     <img src='https://activity-graph.herokuapp.com/graph?username=LuiSauter&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true' />
   </div>
-  
+
 <!---
 LuiSauter/LuiSauter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
