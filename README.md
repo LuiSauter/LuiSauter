@@ -45,13 +45,14 @@
    <img src='https://github-readme-streak-stats.herokuapp.com/?user=LuiSauter&theme=black-ice&hide_border=true&stroke=0000&background=0d1117'/>
   </div>
   <br />
-  <div align="center">
+ 
+  <div style="display:flex; flex-direction: row; flex-wrap: wrap" align="center">
     <img width='400px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LuiSauter&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117'/>
-  </div>
-  <br />
-    <div align="center">
     <img width='400px' src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=luisauter&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:8px" alt="Luis Gabriel Janco">
   </div>
+  
+  <br />
+    
   <div align="center">
     <img src='https://activity-graph.herokuapp.com/graph?username=LuiSauter&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true' />
   </div>
