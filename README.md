@@ -5,7 +5,6 @@
 </h1>
 
 - 👋 Hi, welcome to my repository.
-- 🧑🏻‍💻 Software Engineer.
 - 🚀 FullStack Developer.
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/luis-gabriel-janco) or [Instagram](https://www.instagram.com/sauterdev/)
 
