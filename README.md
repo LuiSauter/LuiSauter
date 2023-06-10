@@ -36,7 +36,7 @@
 
 ### 🌱 I’m currently learning
   <p>
-    <img src="https://img.shields.io/badge/electron-2b2e3b?style=for-the-badge&logo=electron&logoColor=9ee9f8">
+    <img src="https://img.shields.io/badge/python-30485b?style=for-the-badge&logo=python&logoColor=f7ca5a">
   </p>
 
 ### My Github Stats:
@@ -51,10 +51,7 @@
   </div>
   
   <br />
-    
-  <div align="center">
-    <img src='https://activity-graph.herokuapp.com/graph?username=LuiSauter&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true' />
-  </div>
+
 
 <!---
 LuiSauter/LuiSauter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
