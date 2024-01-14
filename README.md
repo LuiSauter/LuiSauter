@@ -5,7 +5,7 @@
 </h1>
 
 - 👋 Hi, welcome to my repository.
-- 🚀 FullStack Developer.
+- 🚀 Frontend Developer.
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/luis-gabriel-janco) or [Instagram](https://www.instagram.com/sauterdev/)
 
 ### Frontend Stack
@@ -34,10 +34,10 @@
   <img src="https://img.shields.io/badge/GraphQL-da0093?style=for-the-badge&logo=GraphQL&logoColor=white">
  </p>
 
-### 🌱 I’m currently learning
+<!-- ### 🌱 I’m currently learning
   <p>
     <img src="https://img.shields.io/badge/python-30485b?style=for-the-badge&logo=python&logoColor=f7ca5a">
-  </p>
+  </p> -->
 
 ### My Github Stats:
   <div align="center" >
